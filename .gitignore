@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Large raw raster files
+*.png.tmp
+*.tif
+
+# OS
+.DS_Store
+Thumbs.db
